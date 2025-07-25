@@ -11,7 +11,7 @@ engines:
       Threads: 8                          # Max CPU threads the engine can use.
       Hash: 2048                    # Max memory (in megabytes) the engine can allocate.
       Move Overhead: 100
-    limits:
+#    limits:
 #      time: 3.0
 #      depth: 20
 #      nodes: 1000000
