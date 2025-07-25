@@ -36,7 +36,6 @@ jobs:
           ls -l ./engines
           mv ./engines/stockfish_*_x64_avx2 ./engines/stockfish-ubuntu-x86-64-avx2
           chmod +x ./engines/stockfish-ubuntu-x86-64-avx2
-          chmod +x ./engines/fairy-stockfish
           rm stockfish.zip
 
       # Run the bot
