@@ -63,6 +63,7 @@ opening_books:
       selection: best_move                # Move selection is one of "weighted_random", "uniform_random" or "best_move".
       names:                              # List of names of books to use in bullet.
         - optimus2409
+        - probook
     standard_black:
       selection: best_move                # Move selection is one of "weighted_random", "uniform_random" or "best_move".
       names:                              # List of names of books to use as black.
@@ -75,6 +76,7 @@ opening_books:
        - optimus4
        - Opimus3.1
        - Titans
+       - probook
 #   Use the same pattern for 'bullet', 'blitz', 'rapid', 'classical',
 #   'antichess', 'atomic', 'chess960', 'crazyhouse', 'horde', 'kingofthehill', 'racingkings' and '3check' as well.
 #   Append '_white' or '_black' to use the books only as the specific color.
